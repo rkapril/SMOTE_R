@@ -2,7 +2,7 @@ library(tidyverse)
 
 getwd()
 
-setwd("C:\\Users\\User\\OneDrive\\Desktop\\Courses\\RP\\SDBA\\Post-Diploma Certificate in Advanced Business Analytics\\PAML\\C3439C_Coursework-2")
+setwd("C:\\..")
 
 getwd()
 
